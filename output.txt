@@ -1,0 +1,622 @@
+Ultralytics 8.3.105 🚀 Python-3.11.11 torch-2.6.0+cu124 CUDA:0 (Tesla T4, 15095MiB)
+YOLO11n summary (fused): 100 layers, 2,583,322 parameters, 0 gradients, 6.3 GFLOPs
+
+video 1/1 (frame 1/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 43.9ms
+video 1/1 (frame 2/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 12.3ms
+video 1/1 (frame 3/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 4/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 9.1ms
+video 1/1 (frame 5/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 6/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 7/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 8/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 9/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 10/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.5ms
+video 1/1 (frame 11/615) /content/test/capstone (1).mp4: 384x640 (no detections), 14.2ms
+video 1/1 (frame 12/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 13/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 14/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 15/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 16/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 17/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 18/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 19/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.8ms
+video 1/1 (frame 20/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 21/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 22/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 23/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 24/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 25/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 9.5ms
+video 1/1 (frame 26/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 27/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 28/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 29/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 30/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 31/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 32/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 33/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 34/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 35/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 36/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 37/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 38/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 39/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 40/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 41/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 42/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 43/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 44/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 45/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 46/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 47/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 48/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 49/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.8ms
+video 1/1 (frame 50/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 51/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 12.2ms
+video 1/1 (frame 52/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 53/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 54/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.6ms
+video 1/1 (frame 55/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 56/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.7ms
+video 1/1 (frame 57/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 58/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 17.9ms
+video 1/1 (frame 59/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 12.5ms
+video 1/1 (frame 60/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 11.5ms
+video 1/1 (frame 61/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.8ms
+video 1/1 (frame 62/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 63/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.6ms
+video 1/1 (frame 64/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 65/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.5ms
+video 1/1 (frame 66/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.8ms
+video 1/1 (frame 67/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 68/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.9ms
+video 1/1 (frame 69/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 70/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 71/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 72/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 9.1ms
+video 1/1 (frame 73/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 9.3ms
+video 1/1 (frame 74/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.0ms
+video 1/1 (frame 75/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 76/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 77/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 78/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 79/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.7ms
+video 1/1 (frame 80/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 81/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 82/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 83/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 84/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 85/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.7ms
+video 1/1 (frame 86/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 87/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 88/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 89/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 90/615) /content/test/capstone (1).mp4: 384x640 (no detections), 7.8ms
+video 1/1 (frame 91/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 92/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 93/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 94/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 95/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 96/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 97/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 98/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.9ms
+video 1/1 (frame 99/615) /content/test/capstone (1).mp4: 384x640 (no detections), 9.7ms
+video 1/1 (frame 100/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 9.2ms
+video 1/1 (frame 101/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 102/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 103/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 104/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 105/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.7ms
+video 1/1 (frame 106/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 107/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.7ms
+video 1/1 (frame 108/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 109/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 110/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 15.0ms
+video 1/1 (frame 111/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 112/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.5ms
+video 1/1 (frame 113/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 114/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 115/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 116/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 9.7ms
+video 1/1 (frame 117/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 118/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 119/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 120/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.8ms
+video 1/1 (frame 121/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.5ms
+video 1/1 (frame 122/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 123/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 124/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 125/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 126/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.9ms
+video 1/1 (frame 127/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 128/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 129/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 130/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 131/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 132/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 133/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 134/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 135/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 136/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.6ms
+video 1/1 (frame 137/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.5ms
+video 1/1 (frame 138/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 139/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 140/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 141/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 142/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 143/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 144/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 145/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 146/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.4ms
+video 1/1 (frame 147/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 148/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 149/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.8ms
+video 1/1 (frame 150/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 151/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 152/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 153/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.8ms
+video 1/1 (frame 154/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 155/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 156/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 157/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.6ms
+video 1/1 (frame 158/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 159/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 11.3ms
+video 1/1 (frame 160/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 9.3ms
+video 1/1 (frame 161/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 162/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 163/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 164/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 165/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 166/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 167/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.5ms
+video 1/1 (frame 168/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 169/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 170/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 9.0ms
+video 1/1 (frame 171/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 172/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 173/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 174/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 175/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 176/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 177/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 178/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.3ms
+video 1/1 (frame 179/615) /content/test/capstone (1).mp4: 384x640 (no detections), 7.9ms
+video 1/1 (frame 180/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.7ms
+video 1/1 (frame 181/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 182/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 183/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.5ms
+video 1/1 (frame 184/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 185/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 186/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.3ms
+video 1/1 (frame 187/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 188/615) /content/test/capstone (1).mp4: 384x640 (no detections), 7.9ms
+video 1/1 (frame 189/615) /content/test/capstone (1).mp4: 384x640 1 No, 7.9ms
+video 1/1 (frame 190/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 191/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 7.9ms
+video 1/1 (frame 192/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 193/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 194/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 195/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 196/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 10.6ms
+video 1/1 (frame 197/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 198/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.4ms
+video 1/1 (frame 199/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.3ms
+video 1/1 (frame 200/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.2ms
+video 1/1 (frame 201/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.2ms
+video 1/1 (frame 202/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 203/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 204/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 205/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.4ms
+video 1/1 (frame 206/615) /content/test/capstone (1).mp4: 384x640 (no detections), 7.9ms
+video 1/1 (frame 207/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 208/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 209/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.3ms
+video 1/1 (frame 210/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 211/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 12.5ms
+video 1/1 (frame 212/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.3ms
+video 1/1 (frame 213/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 1 Yes, 8.2ms
+video 1/1 (frame 214/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.5ms
+video 1/1 (frame 215/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.6ms
+video 1/1 (frame 216/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.3ms
+video 1/1 (frame 217/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.5ms
+video 1/1 (frame 218/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.2ms
+video 1/1 (frame 219/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.9ms
+video 1/1 (frame 220/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.8ms
+video 1/1 (frame 221/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 222/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 223/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 224/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 225/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.3ms
+video 1/1 (frame 226/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 227/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.9ms
+video 1/1 (frame 228/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 229/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 230/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 231/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 232/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.2ms
+video 1/1 (frame 233/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 234/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.2ms
+video 1/1 (frame 235/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 1 Yes, 8.1ms
+video 1/1 (frame 236/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 1 Yes, 7.9ms
+video 1/1 (frame 237/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 238/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.2ms
+video 1/1 (frame 239/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.2ms
+video 1/1 (frame 240/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.4ms
+video 1/1 (frame 241/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 242/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 7.9ms
+video 1/1 (frame 243/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 10.4ms
+video 1/1 (frame 244/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.2ms
+video 1/1 (frame 245/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 9.2ms
+video 1/1 (frame 246/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.6ms
+video 1/1 (frame 247/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.3ms
+video 1/1 (frame 248/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.2ms
+video 1/1 (frame 249/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 250/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.4ms
+video 1/1 (frame 251/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 252/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 253/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 254/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 255/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 256/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 257/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 258/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 11.8ms
+video 1/1 (frame 259/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.9ms
+video 1/1 (frame 260/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.7ms
+video 1/1 (frame 261/615) /content/test/capstone (1).mp4: 384x640 1 No, 10.0ms
+video 1/1 (frame 262/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.4ms
+video 1/1 (frame 263/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.3ms
+video 1/1 (frame 264/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 265/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.6ms
+video 1/1 (frame 266/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.3ms
+video 1/1 (frame 267/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.6ms
+video 1/1 (frame 268/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 269/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.3ms
+video 1/1 (frame 270/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 271/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.3ms
+video 1/1 (frame 272/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 16.4ms
+video 1/1 (frame 273/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 14.6ms
+video 1/1 (frame 274/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 14.3ms
+video 1/1 (frame 275/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 14.4ms
+video 1/1 (frame 276/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 15.5ms
+video 1/1 (frame 277/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 11.4ms
+video 1/1 (frame 278/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 12.1ms
+video 1/1 (frame 279/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.4ms
+video 1/1 (frame 280/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 16.0ms
+video 1/1 (frame 281/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 12.6ms
+video 1/1 (frame 282/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 11.1ms
+video 1/1 (frame 283/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 11.1ms
+video 1/1 (frame 284/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 12.1ms
+video 1/1 (frame 285/615) /content/test/capstone (1).mp4: 384x640 (no detections), 12.9ms
+video 1/1 (frame 286/615) /content/test/capstone (1).mp4: 384x640 (no detections), 12.8ms
+video 1/1 (frame 287/615) /content/test/capstone (1).mp4: 384x640 (no detections), 10.9ms
+video 1/1 (frame 288/615) /content/test/capstone (1).mp4: 384x640 (no detections), 11.2ms
+video 1/1 (frame 289/615) /content/test/capstone (1).mp4: 384x640 (no detections), 10.8ms
+video 1/1 (frame 290/615) /content/test/capstone (1).mp4: 384x640 (no detections), 11.0ms
+video 1/1 (frame 291/615) /content/test/capstone (1).mp4: 384x640 (no detections), 10.8ms
+video 1/1 (frame 292/615) /content/test/capstone (1).mp4: 384x640 (no detections), 11.1ms
+video 1/1 (frame 293/615) /content/test/capstone (1).mp4: 384x640 (no detections), 10.8ms
+video 1/1 (frame 294/615) /content/test/capstone (1).mp4: 384x640 (no detections), 11.1ms
+video 1/1 (frame 295/615) /content/test/capstone (1).mp4: 384x640 (no detections), 11.0ms
+video 1/1 (frame 296/615) /content/test/capstone (1).mp4: 384x640 (no detections), 14.8ms
+video 1/1 (frame 297/615) /content/test/capstone (1).mp4: 384x640 1 Yes, 14.0ms
+video 1/1 (frame 298/615) /content/test/capstone (1).mp4: 384x640 1 Yes, 11.1ms
+video 1/1 (frame 299/615) /content/test/capstone (1).mp4: 384x640 (no detections), 11.2ms
+video 1/1 (frame 300/615) /content/test/capstone (1).mp4: 384x640 1 Yes, 12.4ms
+video 1/1 (frame 301/615) /content/test/capstone (1).mp4: 384x640 1 Yes, 12.6ms
+video 1/1 (frame 302/615) /content/test/capstone (1).mp4: 384x640 2 Yess, 10.5ms
+video 1/1 (frame 303/615) /content/test/capstone (1).mp4: 384x640 1 Yes, 10.4ms
+video 1/1 (frame 304/615) /content/test/capstone (1).mp4: 384x640 1 Yes, 10.5ms
+video 1/1 (frame 305/615) /content/test/capstone (1).mp4: 384x640 1 Yes, 10.3ms
+video 1/1 (frame 306/615) /content/test/capstone (1).mp4: 384x640 1 Yes, 10.4ms
+video 1/1 (frame 307/615) /content/test/capstone (1).mp4: 384x640 (no detections), 10.6ms
+video 1/1 (frame 308/615) /content/test/capstone (1).mp4: 384x640 (no detections), 10.3ms
+video 1/1 (frame 309/615) /content/test/capstone (1).mp4: 384x640 (no detections), 10.3ms
+video 1/1 (frame 310/615) /content/test/capstone (1).mp4: 384x640 (no detections), 10.3ms
+video 1/1 (frame 311/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.9ms
+video 1/1 (frame 312/615) /content/test/capstone (1).mp4: 384x640 (no detections), 10.2ms
+video 1/1 (frame 313/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.2ms
+video 1/1 (frame 314/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.3ms
+video 1/1 (frame 315/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.3ms
+video 1/1 (frame 316/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.2ms
+video 1/1 (frame 317/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 14.7ms
+video 1/1 (frame 318/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 11.7ms
+video 1/1 (frame 319/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 15.5ms
+video 1/1 (frame 320/615) /content/test/capstone (1).mp4: 384x640 (no detections), 18.6ms
+video 1/1 (frame 321/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 13.9ms
+video 1/1 (frame 322/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 17.0ms
+video 1/1 (frame 323/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 14.9ms
+video 1/1 (frame 324/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 11.0ms
+video 1/1 (frame 325/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 15.7ms
+video 1/1 (frame 326/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.6ms
+video 1/1 (frame 327/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.8ms
+video 1/1 (frame 328/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 16.2ms
+video 1/1 (frame 329/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 14.3ms
+video 1/1 (frame 330/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 16.6ms
+video 1/1 (frame 331/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 18.9ms
+video 1/1 (frame 332/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 12.9ms
+video 1/1 (frame 333/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 11.8ms
+video 1/1 (frame 334/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 16.8ms
+video 1/1 (frame 335/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 15.5ms
+video 1/1 (frame 336/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 15.5ms
+video 1/1 (frame 337/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 15.0ms
+video 1/1 (frame 338/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 15.4ms
+video 1/1 (frame 339/615) /content/test/capstone (1).mp4: 384x640 2 Hellos, 15.1ms
+video 1/1 (frame 340/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 16.1ms
+video 1/1 (frame 341/615) /content/test/capstone (1).mp4: 384x640 2 Hellos, 9.3ms
+video 1/1 (frame 342/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 343/615) /content/test/capstone (1).mp4: 384x640 2 Hellos, 8.6ms
+video 1/1 (frame 344/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.6ms
+video 1/1 (frame 345/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.3ms
+video 1/1 (frame 346/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 347/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 348/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 349/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 350/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 351/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 352/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 353/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 9.7ms
+video 1/1 (frame 354/615) /content/test/capstone (1).mp4: 384x640 (no detections), 10.5ms
+video 1/1 (frame 355/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 356/615) /content/test/capstone (1).mp4: 384x640 (no detections), 9.6ms
+video 1/1 (frame 357/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 358/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 359/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 360/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.5ms
+video 1/1 (frame 361/615) /content/test/capstone (1).mp4: 384x640 (no detections), 7.9ms
+video 1/1 (frame 362/615) /content/test/capstone (1).mp4: 384x640 (no detections), 7.9ms
+video 1/1 (frame 363/615) /content/test/capstone (1).mp4: 384x640 (no detections), 7.9ms
+video 1/1 (frame 364/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 365/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 366/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 367/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 368/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 369/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 370/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 371/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 372/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 373/615) /content/test/capstone (1).mp4: 384x640 (no detections), 7.9ms
+video 1/1 (frame 374/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 375/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 376/615) /content/test/capstone (1).mp4: 384x640 (no detections), 10.1ms
+video 1/1 (frame 377/615) /content/test/capstone (1).mp4: 384x640 (no detections), 12.4ms
+video 1/1 (frame 378/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 379/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 380/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 381/615) /content/test/capstone (1).mp4: 384x640 (no detections), 9.9ms
+video 1/1 (frame 382/615) /content/test/capstone (1).mp4: 384x640 (no detections), 9.7ms
+video 1/1 (frame 383/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 384/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 385/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.5ms
+video 1/1 (frame 386/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 387/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 388/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 389/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 390/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 391/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 392/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 393/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 394/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 395/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 396/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 397/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 398/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 399/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 400/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 401/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.8ms
+video 1/1 (frame 402/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 403/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.8ms
+video 1/1 (frame 404/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 405/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.9ms
+video 1/1 (frame 406/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 407/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 9.7ms
+video 1/1 (frame 408/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.3ms
+video 1/1 (frame 409/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 410/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 411/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 412/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 413/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 414/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 415/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 7.9ms
+video 1/1 (frame 416/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.3ms
+video 1/1 (frame 417/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 418/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 419/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 420/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 421/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 422/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 423/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 424/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 425/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 426/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 427/615) /content/test/capstone (1).mp4: 384x640 (no detections), 13.9ms
+video 1/1 (frame 428/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.4ms
+video 1/1 (frame 429/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 430/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.2ms
+video 1/1 (frame 431/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 432/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.4ms
+video 1/1 (frame 433/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 434/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 435/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 12.7ms
+video 1/1 (frame 436/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 13.6ms
+video 1/1 (frame 437/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.3ms
+video 1/1 (frame 438/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 439/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 440/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 441/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.3ms
+video 1/1 (frame 442/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 443/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 444/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 445/615) /content/test/capstone (1).mp4: 384x640 1 No, 7.9ms
+video 1/1 (frame 446/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 447/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 448/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 449/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 450/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 451/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 452/615) /content/test/capstone (1).mp4: 384x640 1 No, 9.6ms
+video 1/1 (frame 453/615) /content/test/capstone (1).mp4: 384x640 1 No, 9.2ms
+video 1/1 (frame 454/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.2ms
+video 1/1 (frame 455/615) /content/test/capstone (1).mp4: 384x640 1 No, 9.5ms
+video 1/1 (frame 456/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 457/615) /content/test/capstone (1).mp4: 384x640 1 No, 7.9ms
+video 1/1 (frame 458/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 459/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.2ms
+video 1/1 (frame 460/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.2ms
+video 1/1 (frame 461/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.2ms
+video 1/1 (frame 462/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.5ms
+video 1/1 (frame 463/615) /content/test/capstone (1).mp4: 384x640 1 No, 7.9ms
+video 1/1 (frame 464/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 465/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 466/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.3ms
+video 1/1 (frame 467/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 468/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 469/615) /content/test/capstone (1).mp4: 384x640 1 No, 7.9ms
+video 1/1 (frame 470/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 471/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 472/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.2ms
+video 1/1 (frame 473/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 474/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 475/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 476/615) /content/test/capstone (1).mp4: 384x640 1 No, 14.5ms
+video 1/1 (frame 477/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 478/615) /content/test/capstone (1).mp4: 384x640 1 No, 10.1ms
+video 1/1 (frame 479/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.4ms
+video 1/1 (frame 480/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.5ms
+video 1/1 (frame 481/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.2ms
+video 1/1 (frame 482/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 483/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.3ms
+video 1/1 (frame 484/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 485/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 486/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.7ms
+video 1/1 (frame 487/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 488/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.2ms
+video 1/1 (frame 489/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 490/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 491/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.2ms
+video 1/1 (frame 492/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.4ms
+video 1/1 (frame 493/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.3ms
+video 1/1 (frame 494/615) /content/test/capstone (1).mp4: 384x640 1 No, 7.9ms
+video 1/1 (frame 495/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 496/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.0ms
+video 1/1 (frame 497/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 498/615) /content/test/capstone (1).mp4: 384x640 1 No, 7.9ms
+video 1/1 (frame 499/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 500/615) /content/test/capstone (1).mp4: 384x640 1 No, 7.9ms
+video 1/1 (frame 501/615) /content/test/capstone (1).mp4: 384x640 1 No, 10.4ms
+video 1/1 (frame 502/615) /content/test/capstone (1).mp4: 384x640 1 No, 1 Yes, 8.7ms
+video 1/1 (frame 503/615) /content/test/capstone (1).mp4: 384x640 1 No, 1 Yes, 8.1ms
+video 1/1 (frame 504/615) /content/test/capstone (1).mp4: 384x640 1 No, 1 Yes, 9.2ms
+video 1/1 (frame 505/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.4ms
+video 1/1 (frame 506/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.3ms
+video 1/1 (frame 507/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.4ms
+video 1/1 (frame 508/615) /content/test/capstone (1).mp4: 384x640 1 No, 1 Yes, 8.2ms
+video 1/1 (frame 509/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 510/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.5ms
+video 1/1 (frame 511/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.0ms
+video 1/1 (frame 512/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.1ms
+video 1/1 (frame 513/615) /content/test/capstone (1).mp4: 384x640 1 No, 7.9ms
+video 1/1 (frame 514/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.2ms
+video 1/1 (frame 515/615) /content/test/capstone (1).mp4: 384x640 1 No, 7.9ms
+video 1/1 (frame 516/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.2ms
+video 1/1 (frame 517/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.1ms
+video 1/1 (frame 518/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.2ms
+video 1/1 (frame 519/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 No, 8.2ms
+video 1/1 (frame 520/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 1 Yes, 8.1ms
+video 1/1 (frame 521/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 522/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 523/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 524/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 12.9ms
+video 1/1 (frame 525/615) /content/test/capstone (1).mp4: 384x640 (no detections), 14.7ms
+video 1/1 (frame 526/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 9.2ms
+video 1/1 (frame 527/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 528/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 529/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 530/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.9ms
+video 1/1 (frame 531/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 532/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 533/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 534/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 535/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 536/615) /content/test/capstone (1).mp4: 384x640 2 Hellos, 10.2ms
+video 1/1 (frame 537/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.2ms
+video 1/1 (frame 538/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 539/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 540/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 541/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 542/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 543/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 544/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 545/615) /content/test/capstone (1).mp4: 384x640 (no detections), 7.9ms
+video 1/1 (frame 546/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 547/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 548/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 549/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 550/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 551/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.5ms
+video 1/1 (frame 552/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 553/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 554/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 555/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 556/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 557/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 558/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 559/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 7.9ms
+video 1/1 (frame 560/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 561/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 562/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 563/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 564/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.0ms
+video 1/1 (frame 565/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 566/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 567/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 568/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.7ms
+video 1/1 (frame 569/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 570/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.5ms
+video 1/1 (frame 571/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 572/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 573/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 574/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 575/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 10.0ms
+video 1/1 (frame 576/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 577/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 578/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 579/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.7ms
+video 1/1 (frame 580/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 581/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 582/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 583/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 584/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 585/615) /content/test/capstone (1).mp4: 384x640 (no detections), 14.1ms
+video 1/1 (frame 586/615) /content/test/capstone (1).mp4: 384x640 (no detections), 10.2ms
+video 1/1 (frame 587/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 588/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 589/615) /content/test/capstone (1).mp4: 384x640 2 Hellos, 8.1ms
+video 1/1 (frame 590/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.4ms
+video 1/1 (frame 591/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.3ms
+video 1/1 (frame 592/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 593/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.2ms
+video 1/1 (frame 594/615) /content/test/capstone (1).mp4: 384x640 1 No, 8.2ms
+video 1/1 (frame 595/615) /content/test/capstone (1).mp4: 384x640 1 No, 7.9ms
+video 1/1 (frame 596/615) /content/test/capstone (1).mp4: 384x640 (no detections), 11.1ms
+video 1/1 (frame 597/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 598/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.1ms
+video 1/1 (frame 599/615) /content/test/capstone (1).mp4: 384x640 (no detections), 10.2ms
+video 1/1 (frame 600/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 601/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.4ms
+video 1/1 (frame 602/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.0ms
+video 1/1 (frame 603/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.5ms
+video 1/1 (frame 604/615) /content/test/capstone (1).mp4: 384x640 1 Hello, 8.2ms
+video 1/1 (frame 605/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.8ms
+video 1/1 (frame 606/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 607/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.3ms
+video 1/1 (frame 608/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.8ms
+video 1/1 (frame 609/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 610/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 611/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 612/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.1ms
+video 1/1 (frame 613/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.3ms
+video 1/1 (frame 614/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.2ms
+video 1/1 (frame 615/615) /content/test/capstone (1).mp4: 384x640 (no detections), 8.6ms
+Speed: 2.5ms preprocess, 9.0ms inference, 1.3ms postprocess per image at shape (1, 3, 384, 640)
+Results saved to [1mruns/detect/predict6[0m
+513 labels saved to runs/detect/predict6/labels
+💡 Learn more at https://docs.ultralytics.com/modes/predict
